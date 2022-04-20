@@ -16,14 +16,14 @@ A Colorado elections employee gave me the following tasks to conduct an election
 
 ## Summary 
 The analysis of the election shows: 
-- There were "37,000" votes cast in the election 
+- There were 369,711 votes cast in the election 
 - The candidates were: 
-  - Candidate 1
-  - C 2 
-  - C 3
+  - Charles Casper Stockham 
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were: 
-  - X recieved % of the votes and y number of votes 
-  - X recieved % of the votes and y number of votes 
-  - X recieved % of the votes and y number of votes 
+  - Charles recieved 23% of the votes (85,213 votes)
+  - Diana reiceved 73.8% of the votes (272,892 votes)
+  - Raymon recieved 3.1% of the votes (11,606 votes) 
 - The winner of election was: 
-  - X who recieved X% of the vote and y number of the votes. 
+  - Diana DeGette who reiceved 73.8% of the votes with over 270,000 votes!
