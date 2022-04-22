@@ -80,7 +80,7 @@ Election audit summary:
 - We recommend a closer look at deemphasizing the voter turnout by sheer volume. 
 - We expect less people from Jefferson and Arapahoe to vote, because each county has less occupants than Denver! 
 - In that sense, we might want to weigh our votes a bit differently to ensure a fair election. 
-- We also recommend 
+- We also recommend adding a decision statement to find a breakdown in counties by vote count, percentage, and who they voted for (which candidate had the most success). 
 
 
 
