@@ -61,18 +61,26 @@ Election audit results:
   - One intersting note, with Diane Degette's win at 73.8%, we saw a jump from her previous cycle in voting percentage (67% 2016). 
   - We may need to consider each candidate and district with recent historical data to understand voting trends. 
 - Number of votes and % total votes by county: 
-  - Jefferson: 
-  - Denver: 
-  - Arapahoe: 
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- We see that the Denver county had the largest turnout and largest percentage. 
+- If we overlay these results against our candidates, we may start to find some key points
+  - Jefferson: 38,855 (10.5%)
+  - Denver: 306,055 (82.8%)
+  - Arapahoe: 24,801 (6.7%)
+
+- As mentioned above, the candidate results were as follows: 
+  - Charles recieved 23% of the votes (85,213 votes)
+  - Diana reiceved 73.8% of the votes (272,892 votes)
+  - Raymon recieved 3.1% of the votes (11,606 votes) 
+- Diana Degette is leans left in her policy work, and holds connections to the greater Colorado Springs and Denver areas. 
+- Unfortunatley for Charles and Raymon, this may signal why the Denver county turnout was the largest and so heavily favored Diana. 
+- Yet, from a broader perspective, this also makes sense as Denver county is one of the largest in its distrcit, and therefore we expected a higher amount of voter turnout. 
 
 Election audit summary: 
-- provide business proposal to the commission on how this script can be used 
-- provide any modifications for the election itself 
-- give 2 examples total
+- With the winner declared as Diane DeGette, we may consider an adjustement to our script. 
+- We recommend a closer look at deemphasizing the voter turnout by sheer volume. 
+- We expect less people from Jefferson and Arapahoe to vote, because each county has less occupants than Denver! 
+- In that sense, we might want to weigh our votes a bit differently to ensure a fair election. 
+- We also recommend 
 
 
 
