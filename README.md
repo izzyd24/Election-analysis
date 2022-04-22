@@ -44,9 +44,26 @@ Upon completion, make sure to save to the txt file.
 ## Analysis
 Overview of Election audit: 
 - Explain the purpose of the audit analysis w/ new requests
+- The purpose of the audit analysis was to take Seth and Tom's request a step further. 
+- Intially, we conducted a state (Colorado) election audit for the candidates mentioned above. 
+- After our developing our first script, we were pleased to find each candidate's name, vote count, and ultimatley their percentage towards the popular vote. 
+- We found Diana DeGette to be our winner by popular vote, at 73.8% of the votes recieved (272,892 votes). 
+- Yet, we also wanted to better understand the underlying trends in out voter populus. 
+- Seth and Tom questioned if our script could be adjusted to find the following: 
+  - 1. Find the voter turnout by county; for instance, in Jefferson county do we expect a high or low voter turnout (assuming past yearly trends, we would conclude otherwise). 
+  - 2. Calculate the % of votes from each county against the total count. In this step, we want to take our high/low turnout amounts and map with % similar to the candidate popular vote. 
+  - 3. Finally, we aimed to find the county with the largest turnout. We suspect that once we identify this county, Denver, for instance---we may question what barriers to voting where placed in other counties or if our turnout logic is sound. (i.e. does the largest turnout as Denver make sense, as it is the biggest county of the three in our dataset?)
+  - Below you will find our results. 
 
 Election audit results: 
-- How many votes were cast in this congressional election?
+- Votes cast in this congressional election: 
+  - 369,711 votes were cast this year. Observing past congressional data, this seems to be a comporable figure (each district averages 330,000 votes/cycle).
+  - One intersting note, with Diane Degette's win at 73.8%, we saw a jump from her previous cycle in voting percentage (67% 2016). 
+  - We may need to consider each candidate and district with recent historical data to understand voting trends. 
+- Number of votes and % total votes by county: 
+  - Jefferson: 
+  - Denver: 
+  - Arapahoe: 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - Which county had the largest number of votes?
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
